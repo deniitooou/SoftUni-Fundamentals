@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a110d5f-0c63-49f4-92f1-85eefc98ea19": {
+      "ProjectGuid": "0a110d5f-0c63-49f4-92f1-85eefc98ea19",
+      "DisplayName": "07. Vending Machine",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
