@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Theatre Promotion", "07. Theatre Promotion\07. Theatre Promotion.csproj", "{18ECF088-F75C-45FD-96BA-62C4EDCE45E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ECF088-F75C-45FD-96BA-62C4EDCE45E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18ECF088-F75C-45FD-96BA-62C4EDCE45E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18ECF088-F75C-45FD-96BA-62C4EDCE45E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18ECF088-F75C-45FD-96BA-62C4EDCE45E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B0C021C-95E2-4A25-915F-198B8D2259B0}
+	EndGlobalSection
+EndGlobal
