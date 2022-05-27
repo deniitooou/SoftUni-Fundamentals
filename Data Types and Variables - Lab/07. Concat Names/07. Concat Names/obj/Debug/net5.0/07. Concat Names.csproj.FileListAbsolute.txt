@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\bin\Debug\net5.0\07. Concat Names.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\bin\Debug\net5.0\07. Concat Names.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\bin\Debug\net5.0\07. Concat Names.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\bin\Debug\net5.0\07. Concat Names.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\bin\Debug\net5.0\07. Concat Names.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\bin\Debug\net5.0\ref\07. Concat Names.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\bin\Debug\net5.0\07. Concat Names.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\obj\Debug\net5.0\07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\obj\Debug\net5.0\07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\obj\Debug\net5.0\07. Concat Names.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\obj\Debug\net5.0\07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\obj\Debug\net5.0\07. Concat Names.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\obj\Debug\net5.0\ref\07. Concat Names.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\obj\Debug\net5.0\07. Concat Names.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\07. Concat Names\07. Concat Names\obj\Debug\net5.0\07. Concat Names.genruntimeconfig.cache

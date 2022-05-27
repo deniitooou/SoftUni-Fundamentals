@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\obj\Debug\net5.0\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\obj\Debug\net5.0\08. Town Info.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\obj\Debug\net5.0\08. Town Info.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\obj\Debug\net5.0\08. Town Info.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\bin\Debug\net5.0\08. Town Info.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\bin\Debug\net5.0\08. Town Info.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\bin\Debug\net5.0\08. Town Info.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\bin\Debug\net5.0\08. Town Info.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\bin\Debug\net5.0\08. Town Info.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\bin\Debug\net5.0\ref\08. Town Info.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\bin\Debug\net5.0\08. Town Info.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\obj\Debug\net5.0\08. Town Info.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\obj\Debug\net5.0\ref\08. Town Info.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\obj\Debug\net5.0\08. Town Info.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\08. Town Info\08. Town Info\obj\Debug\net5.0\08. Town Info.genruntimeconfig.cache

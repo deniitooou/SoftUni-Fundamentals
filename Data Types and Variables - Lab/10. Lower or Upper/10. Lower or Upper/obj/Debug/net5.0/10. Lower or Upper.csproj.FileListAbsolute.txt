@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\bin\Debug\net5.0\ref\10. Lower or Upper.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\ref\10. Lower or Upper.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Lab\10. Lower or Upper\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.genruntimeconfig.cache
