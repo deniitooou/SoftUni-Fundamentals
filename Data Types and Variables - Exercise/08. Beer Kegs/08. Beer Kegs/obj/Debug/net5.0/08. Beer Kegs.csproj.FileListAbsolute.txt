@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\bin\Debug\net5.0\ref\08. Beer Kegs.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\obj\Debug\net5.0\ref\08. Beer Kegs.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\08. Beer Kegs\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.genruntimeconfig.cache

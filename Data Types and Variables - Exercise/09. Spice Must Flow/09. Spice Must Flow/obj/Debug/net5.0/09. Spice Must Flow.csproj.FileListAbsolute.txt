@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\bin\Debug\net5.0\ref\09. Spice Must Flow.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\obj\Debug\net5.0\ref\09. Spice Must Flow.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.genruntimeconfig.cache

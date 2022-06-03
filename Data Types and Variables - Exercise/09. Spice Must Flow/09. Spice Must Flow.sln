@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Spice Must Flow", "09. Spice Must Flow\09. Spice Must Flow.csproj", "{28561403-42AE-4101-8447-0174E77CC3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28561403-42AE-4101-8447-0174E77CC3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28561403-42AE-4101-8447-0174E77CC3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28561403-42AE-4101-8447-0174E77CC3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28561403-42AE-4101-8447-0174E77CC3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E26191C-F33C-4E05-A00B-5D84BBBFBCFB}
+	EndGlobalSection
+EndGlobal

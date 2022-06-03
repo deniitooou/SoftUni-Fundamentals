@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\bin\Debug\net5.0\ref\01. Integer Operations.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\ref\01. Integer Operations.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\01. Integer Operations\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\bin\Debug\net5.0\ref\04. Sum of Chars.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\obj\Debug\net5.0\ref\04. Sum of Chars.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\04. Sum of Chars\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.genruntimeconfig.cache

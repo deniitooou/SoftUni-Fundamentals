@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0298a524-73ab-47a9-9d42-c90994d88ba5": {
+      "ProjectGuid": "0298a524-73ab-47a9-9d42-c90994d88ba5",
+      "DisplayName": "02. Sum Digits",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

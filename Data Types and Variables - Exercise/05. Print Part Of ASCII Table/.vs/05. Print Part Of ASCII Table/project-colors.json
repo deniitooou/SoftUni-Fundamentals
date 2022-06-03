@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33a5f76f-4f4b-4676-939c-ae647ae98ddf": {
+      "ProjectGuid": "33a5f76f-4f4b-4676-939c-ae647ae98ddf",
+      "DisplayName": "05. Print Part Of ASCII Table",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

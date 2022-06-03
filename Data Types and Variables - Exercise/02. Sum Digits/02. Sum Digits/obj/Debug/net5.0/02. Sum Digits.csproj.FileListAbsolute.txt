@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\bin\Debug\net5.0\ref\02. Sum Digits.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\obj\Debug\net5.0\ref\02. Sum Digits.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Data Types and Variables - Exercise\02. Sum Digits\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.genruntimeconfig.cache
