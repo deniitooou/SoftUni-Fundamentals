@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87d28226-7b31-4761-b43e-540fc66a55be": {
+      "ProjectGuid": "87d28226-7b31-4761-b43e-540fc66a55be",
+      "DisplayName": "01. Data Type Finder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
