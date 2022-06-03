@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea72d9dd-b402-4bc1-9284-bc60c128f953": {
+      "ProjectGuid": "ea72d9dd-b402-4bc1-9284-bc60c128f953",
+      "DisplayName": "01. Debit Card Number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
