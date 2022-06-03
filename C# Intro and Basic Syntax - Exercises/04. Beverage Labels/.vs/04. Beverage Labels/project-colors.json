@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebf192fa-39a1-4b68-8d46-820d1a64e2e4": {
+      "ProjectGuid": "ebf192fa-39a1-4b68-8d46-820d1a64e2e4",
+      "DisplayName": "04. Beverage Labels",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
