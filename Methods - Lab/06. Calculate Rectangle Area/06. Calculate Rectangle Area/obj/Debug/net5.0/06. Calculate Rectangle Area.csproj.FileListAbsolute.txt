@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\bin\Debug\net5.0\ref\06. Calculate Rectangle Area.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\obj\Debug\net5.0\ref\06. Calculate Rectangle Area.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.genruntimeconfig.cache

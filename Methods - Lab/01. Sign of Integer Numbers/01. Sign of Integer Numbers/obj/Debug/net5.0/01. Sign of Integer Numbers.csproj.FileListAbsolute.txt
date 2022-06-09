@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\bin\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.genruntimeconfig.cache

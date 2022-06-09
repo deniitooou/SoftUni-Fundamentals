@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\bin\Debug\net5.0\ref\09. Greater of Two Values.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\obj\Debug\net5.0\ref\09. Greater of Two Values.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\09. Greater of Two Values\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.genruntimeconfig.cache

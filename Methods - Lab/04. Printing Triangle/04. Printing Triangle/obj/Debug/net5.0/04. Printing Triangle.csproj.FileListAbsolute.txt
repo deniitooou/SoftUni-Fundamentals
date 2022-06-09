@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\bin\Debug\net5.0\ref\04. Printing Triangle.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\obj\Debug\net5.0\ref\04. Printing Triangle.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\04. Printing Triangle\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.genruntimeconfig.cache

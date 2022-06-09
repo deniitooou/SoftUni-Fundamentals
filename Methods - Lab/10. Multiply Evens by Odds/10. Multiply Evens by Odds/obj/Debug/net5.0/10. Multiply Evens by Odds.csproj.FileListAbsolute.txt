@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\bin\Debug\net5.0\ref\10. Multiply Evens by Odds.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\obj\Debug\net5.0\ref\10. Multiply Evens by Odds.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.genruntimeconfig.cache
