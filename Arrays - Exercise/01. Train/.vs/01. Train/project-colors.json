@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4182cbd0-c9c8-49a6-bb89-c05423b6b46a": {
+      "ProjectGuid": "4182cbd0-c9c8-49a6-bb89-c05423b6b46a",
+      "DisplayName": "01. Train",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\bin\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\obj\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\03. Zig-Zag Arrays\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.genruntimeconfig.cache

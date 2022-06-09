@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\bin\Debug\net5.0\01. Train.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\bin\Debug\net5.0\01. Train.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\bin\Debug\net5.0\01. Train.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\bin\Debug\net5.0\ref\01. Train.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\bin\Debug\net5.0\01. Train.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\01. Train.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\01. Train.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\ref\01. Train.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\01. Train.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Arrays - Exercise\01. Train\01. Train\obj\Debug\net5.0\01. Train.genruntimeconfig.cache
