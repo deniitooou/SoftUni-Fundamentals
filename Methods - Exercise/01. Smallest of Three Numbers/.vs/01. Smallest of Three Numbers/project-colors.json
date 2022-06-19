@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1d87cb2-1b4f-49ed-9474-84311e2f5f03": {
+      "ProjectGuid": "d1d87cb2-1b4f-49ed-9474-84311e2f5f03",
+      "DisplayName": "01. Smallest of Three Numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

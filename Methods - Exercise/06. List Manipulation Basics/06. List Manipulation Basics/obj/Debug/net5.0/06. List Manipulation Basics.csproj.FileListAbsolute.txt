@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\bin\Debug\net5.0\ref\06. List Manipulation Basics.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\obj\Debug\net5.0\ref\06. List Manipulation Basics.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Methods - Exercise\06. List Manipulation Basics\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.genruntimeconfig.cache

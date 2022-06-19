@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d0f1038-e732-4d0e-9c3d-4767289d06d2": {
+      "ProjectGuid": "2d0f1038-e732-4d0e-9c3d-4767289d06d2",
+      "DisplayName": "02. Vowels Count",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

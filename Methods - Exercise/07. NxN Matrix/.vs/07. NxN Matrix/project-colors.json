@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2b18a1c-53be-4978-b594-6bd1bf7d99ab": {
+      "ProjectGuid": "b2b18a1c-53be-4978-b594-6bd1bf7d99ab",
+      "DisplayName": "07. NxN Matrix",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

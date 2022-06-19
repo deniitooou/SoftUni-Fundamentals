@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06913ebc-4c42-4e1f-86e5-ca0e6e086244": {
+      "ProjectGuid": "06913ebc-4c42-4e1f-86e5-ca0e6e086244",
+      "DisplayName": "01. Sum Adjacent Equal Numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
