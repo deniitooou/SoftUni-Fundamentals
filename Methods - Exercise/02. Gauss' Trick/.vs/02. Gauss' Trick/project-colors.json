@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ce98245-59da-48a6-8a65-bd82881b3d06": {
+      "ProjectGuid": "4ce98245-59da-48a6-8a65-bd82881b3d06",
+      "DisplayName": "02. Gauss' Trick",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
