@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "171fca2a-a9a1-4437-8ecf-42a73cb58248": {
+      "ProjectGuid": "171fca2a-a9a1-4437-8ecf-42a73cb58248",
+      "DisplayName": "01. Guinea Pig",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

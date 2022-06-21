@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\bin\Debug\net5.0\02. The Lift.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\bin\Debug\net5.0\02. The Lift.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\bin\Debug\net5.0\02. The Lift.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\bin\Debug\net5.0\02. The Lift.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\bin\Debug\net5.0\02. The Lift.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\bin\Debug\net5.0\ref\02. The Lift.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\bin\Debug\net5.0\02. The Lift.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\02. The Lift.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\02. The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\02. The Lift.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\02. The Lift.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\02. The Lift.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\02. The Lift.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\ref\02. The Lift.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\02. The Lift.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. The Lift\02. The Lift\obj\Debug\net5.0\02. The Lift.genruntimeconfig.cache
