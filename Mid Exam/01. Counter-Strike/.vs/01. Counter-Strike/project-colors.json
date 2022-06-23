@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1677b6dd-1021-44bf-9ceb-d5f408acca6b": {
+      "ProjectGuid": "1677b6dd-1021-44bf-9ceb-d5f408acca6b",
+      "DisplayName": "01. Counter-Strike",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\bin\Debug\net5.0\03. Memory Game.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\bin\Debug\net5.0\03. Memory Game.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\bin\Debug\net5.0\03. Memory Game.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\bin\Debug\net5.0\03. Memory Game.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\bin\Debug\net5.0\03. Memory Game.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\bin\Debug\net5.0\ref\03. Memory Game.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\bin\Debug\net5.0\03. Memory Game.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\obj\Debug\net5.0\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\obj\Debug\net5.0\03. Memory Game.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\obj\Debug\net5.0\03. Memory Game.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\obj\Debug\net5.0\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\obj\Debug\net5.0\03. Memory Game.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\obj\Debug\net5.0\ref\03. Memory Game.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\obj\Debug\net5.0\03. Memory Game.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Memory Game\03. Memory Game\obj\Debug\net5.0\03. Memory Game.genruntimeconfig.cache

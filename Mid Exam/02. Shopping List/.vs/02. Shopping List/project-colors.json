@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc6365aa-da0e-4cc8-8af2-42d2e24fb490": {
+      "ProjectGuid": "cc6365aa-da0e-4cc8-8af2-42d2e24fb490",
+      "DisplayName": "02. Shopping List",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\bin\Debug\net5.0\ref\03. Heart Delivery.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\obj\Debug\net5.0\ref\03. Heart Delivery.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Heart Delivery\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.genruntimeconfig.cache

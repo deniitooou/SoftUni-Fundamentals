@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\bin\Debug\net5.0\ref\02. Shoot for the Win.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\ref\02. Shoot for the Win.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Shoot for the Win\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.genruntimeconfig.cache

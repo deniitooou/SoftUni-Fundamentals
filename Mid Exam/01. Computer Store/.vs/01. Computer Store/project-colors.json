@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "790d2c3b-af37-4cf2-bdd7-dc02ed8448a9": {
+      "ProjectGuid": "790d2c3b-af37-4cf2-bdd7-dc02ed8448a9",
+      "DisplayName": "01. Computer Store",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

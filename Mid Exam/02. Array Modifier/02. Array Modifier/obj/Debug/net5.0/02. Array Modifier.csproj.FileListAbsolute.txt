@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\bin\Debug\net5.0\ref\02. Array Modifier.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\obj\Debug\net5.0\ref\02. Array Modifier.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\02. Array Modifier\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.genruntimeconfig.cache

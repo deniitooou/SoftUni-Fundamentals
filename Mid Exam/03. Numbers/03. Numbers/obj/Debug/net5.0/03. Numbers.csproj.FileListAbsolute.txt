@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\bin\Debug\net5.0\03. Numbers.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\bin\Debug\net5.0\03. Numbers.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\bin\Debug\net5.0\03. Numbers.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\bin\Debug\net5.0\03. Numbers.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\bin\Debug\net5.0\03. Numbers.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\bin\Debug\net5.0\ref\03. Numbers.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\bin\Debug\net5.0\03. Numbers.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\obj\Debug\net5.0\03. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\obj\Debug\net5.0\03. Numbers.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\obj\Debug\net5.0\03. Numbers.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\obj\Debug\net5.0\03. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\obj\Debug\net5.0\03. Numbers.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\obj\Debug\net5.0\ref\03. Numbers.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\obj\Debug\net5.0\03. Numbers.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. Numbers\03. Numbers\obj\Debug\net5.0\03. Numbers.genruntimeconfig.cache
