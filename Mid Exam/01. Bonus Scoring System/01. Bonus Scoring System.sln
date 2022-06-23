@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Bonus Scoring System", "01. Bonus Scoring System\01. Bonus Scoring System.csproj", "{327BA9CC-F2FE-435A-AFBA-A14E42A6ED55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327BA9CC-F2FE-435A-AFBA-A14E42A6ED55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327BA9CC-F2FE-435A-AFBA-A14E42A6ED55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327BA9CC-F2FE-435A-AFBA-A14E42A6ED55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327BA9CC-F2FE-435A-AFBA-A14E42A6ED55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7230056-635B-4BA1-AC9F-38181D1E8338}
+	EndGlobalSection
+EndGlobal
