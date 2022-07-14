@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\bin\Debug\net5.0\01. Cooking Masterclass.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\bin\Debug\net5.0\01. Cooking Masterclass.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\bin\Debug\net5.0\01. Cooking Masterclass.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\bin\Debug\net5.0\01. Cooking Masterclass.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\bin\Debug\net5.0\01. Cooking Masterclass.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\bin\Debug\net5.0\ref\01. Cooking Masterclass.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\bin\Debug\net5.0\01. Cooking Masterclass.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\01. Cooking Masterclass.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\01. Cooking Masterclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\01. Cooking Masterclass.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\01. Cooking Masterclass.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\01. Cooking Masterclass.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\01. Cooking Masterclass.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\ref\01. Cooking Masterclass.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\01. Cooking Masterclass.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\01. Cooking Masterclass\01. Cooking Masterclass\obj\Debug\net5.0\01. Cooking Masterclass.genruntimeconfig.cache

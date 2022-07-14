@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f86fa262-95b6-4fcf-9806-5acc1de2e04b": {
+      "ProjectGuid": "f86fa262-95b6-4fcf-9806-5acc1de2e04b",
+      "DisplayName": "01. Cooking Masterclass",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

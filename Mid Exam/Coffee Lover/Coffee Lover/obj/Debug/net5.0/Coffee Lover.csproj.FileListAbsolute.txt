@@ -1,0 +1,15 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\bin\Debug\net5.0\Coffee Lover.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\bin\Debug\net5.0\Coffee Lover.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\bin\Debug\net5.0\Coffee Lover.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\bin\Debug\net5.0\Coffee Lover.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\bin\Debug\net5.0\Coffee Lover.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\bin\Debug\net5.0\ref\Coffee Lover.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\bin\Debug\net5.0\Coffee Lover.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\obj\Debug\net5.0\Coffee Lover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\obj\Debug\net5.0\Coffee Lover.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\obj\Debug\net5.0\Coffee Lover.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\obj\Debug\net5.0\Coffee Lover.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\obj\Debug\net5.0\Coffee Lover.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\obj\Debug\net5.0\ref\Coffee Lover.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\obj\Debug\net5.0\Coffee Lover.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\Coffee Lover\Coffee Lover\obj\Debug\net5.0\Coffee Lover.genruntimeconfig.cache

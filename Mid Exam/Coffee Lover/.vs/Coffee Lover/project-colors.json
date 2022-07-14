@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd91cd4b-1c13-4c8a-ac80-7f7e41b2ce45": {
+      "ProjectGuid": "fd91cd4b-1c13-4c8a-ac80-7f7e41b2ce45",
+      "DisplayName": "Coffee Lover",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

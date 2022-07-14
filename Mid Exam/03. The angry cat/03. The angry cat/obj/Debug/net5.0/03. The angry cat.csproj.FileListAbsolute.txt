@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\bin\Debug\net5.0\03. The angry cat.exe
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\bin\Debug\net5.0\03. The angry cat.deps.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\bin\Debug\net5.0\03. The angry cat.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\bin\Debug\net5.0\03. The angry cat.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\bin\Debug\net5.0\03. The angry cat.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\bin\Debug\net5.0\ref\03. The angry cat.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\bin\Debug\net5.0\03. The angry cat.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\03. The angry cat.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\03. The angry cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\03. The angry cat.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\03. The angry cat.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\03. The angry cat.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\03. The angry cat.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\ref\03. The angry cat.dll
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\03. The angry cat.pdb
+C:\Users\User 1\source\repos\CSharpProgrammingFundamentals\Mid Exam\03. The angry cat\03. The angry cat\obj\Debug\net5.0\03. The angry cat.genruntimeconfig.cache
