@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e238822c-ed74-4633-a58b-447e297deb3f": {
+      "ProjectGuid": "e238822c-ed74-4633-a58b-447e297deb3f",
+      "DisplayName": "01. Randomize Words",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

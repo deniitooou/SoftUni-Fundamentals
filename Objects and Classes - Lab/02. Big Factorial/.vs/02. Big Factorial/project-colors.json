@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e4dea83-7ed2-4ccb-a367-ff0a57e7cab1": {
+      "ProjectGuid": "5e4dea83-7ed2-4ccb-a367-ff0a57e7cab1",
+      "DisplayName": "02. Big Factorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
