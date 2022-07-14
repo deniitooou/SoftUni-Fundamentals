@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b14be806-3f64-4ada-a11a-7043719f6fde": {
+      "ProjectGuid": "b14be806-3f64-4ada-a11a-7043719f6fde",
+      "DisplayName": "02. A Miner Task",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
