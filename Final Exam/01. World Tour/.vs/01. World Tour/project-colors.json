@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d9a42c5-bba5-4a85-a302-2f8f200b837f": {
+      "ProjectGuid": "9d9a42c5-bba5-4a85-a302-2f8f200b837f",
+      "DisplayName": "01. World Tour",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
