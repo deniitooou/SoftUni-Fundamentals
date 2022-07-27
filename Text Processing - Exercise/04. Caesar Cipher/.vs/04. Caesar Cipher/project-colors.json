@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82f15840-1de0-46ca-80f6-52b7b561b05b": {
+      "ProjectGuid": "82f15840-1de0-46ca-80f6-52b7b561b05b",
+      "DisplayName": "04. Caesar Cipher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

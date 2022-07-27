@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiply Big Number", "05. Multiply Big Number\05. Multiply Big Number.csproj", "{73D4ACCB-0FE3-4261-A3F8-38F667A92201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D4ACCB-0FE3-4261-A3F8-38F667A92201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D4ACCB-0FE3-4261-A3F8-38F667A92201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D4ACCB-0FE3-4261-A3F8-38F667A92201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D4ACCB-0FE3-4261-A3F8-38F667A92201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5B15ED-790F-4E24-BF43-2E277FA21563}
+	EndGlobalSection
+EndGlobal
