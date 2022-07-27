@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "edb88608-e09e-43d5-8d47-1b64a1c5ac58": {
+      "ProjectGuid": "edb88608-e09e-43d5-8d47-1b64a1c5ac58",
+      "DisplayName": "02. Race",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
