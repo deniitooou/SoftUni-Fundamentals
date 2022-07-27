@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a3a8823-bdc4-466e-9713-fb102cea8a42": {
+      "ProjectGuid": "5a3a8823-bdc4-466e-9713-fb102cea8a42",
+      "DisplayName": "02. Ascii Sumator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

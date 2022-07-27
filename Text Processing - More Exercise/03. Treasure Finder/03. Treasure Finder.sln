@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Treasure Finder", "03. Treasure Finder\03. Treasure Finder.csproj", "{76CC9A21-97B5-4072-8F66-C776F655A576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CC9A21-97B5-4072-8F66-C776F655A576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CC9A21-97B5-4072-8F66-C776F655A576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CC9A21-97B5-4072-8F66-C776F655A576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CC9A21-97B5-4072-8F66-C776F655A576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC31256-8C38-400F-A729-378FF6D5E0D6}
+	EndGlobalSection
+EndGlobal
