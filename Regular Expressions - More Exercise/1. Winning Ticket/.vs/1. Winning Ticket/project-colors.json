@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0a81354-db73-467d-8751-837879133a4d": {
+      "ProjectGuid": "b0a81354-db73-467d-8751-837879133a4d",
+      "DisplayName": "1. Winning Ticket",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
